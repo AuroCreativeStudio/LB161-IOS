@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "713695826403",
+    "project_id": "lodge-bharathi",
+    "storage_bucket": "lodge-bharathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713695826403:android:bc670ae63b15b6c83650d6",
+        "android_client_info": {
+          "package_name": "lodgebharathi.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713695826403-7rlfat2pad0d943109lll0ahd2rcuquo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lodgebharathi.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "713695826403-09ptuuo6n09eh5v3lr5f46jb1igh1mp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ithrfca4n6gD84r9BNHoE1B78xntPtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713695826403-09ptuuo6n09eh5v3lr5f46jb1igh1mp2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713695826403-g5ssgnbbcj25krq73cvsk0e505vdqcn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "lodgebharathi.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
